@@ -1,0 +1,37 @@
+{
+  "prompt": "This is a photo showcasing a small cabin in a natural environment. The cabin is located in the center of the frame, with a pointed roof and a wooden door, surrounded by green trees and a field of yellow flowers. The cabin is situated in a vibrant natural environment, with the yellow flowers in the foreground adding a touch of spring color to the scene.",
+  "height": 1000,
+  "width": 1498,
+  "annos": [
+    {
+      "bbox": [
+        1,
+        647,
+        1495,
+        995
+      ],
+      "category_name": "yellow flowers",
+      "caption": "Bright yellow dandelions cover the foreground, creating a vibrant natural carpet."
+    },
+    {
+      "bbox": [
+        129,
+        158,
+        1167,
+        721
+      ],
+      "category_name": "small cabin",
+      "caption": "A quaint, small cabin with a sloped metal roof and wooden siding is nestled among lush greenery."
+    },
+    {
+      "bbox": [
+        2,
+        2,
+        1495,
+        714
+      ],
+      "category_name": "green trees",
+      "caption": "Lush, verdant foliage in the background."
+    }
+  ]
+}

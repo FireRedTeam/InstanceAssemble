@@ -1,0 +1,177 @@
+{
+  "prompt": "This is a photo showcasing a variety of chairs and decorative paintings. In the foreground, there are six chairs of different styles, each with a unique design and color. From left to right, the first chair is white with a blue pattern, the second is white with a red pattern, the third is white with a gold pattern, the fourth is white with a red pattern, the fifth is white with a blue pattern, and the sixth is white with a red and blue pattern. In the background, there are four decorative paintings, each depicting different scenes, including landscapes, buildings, and landscapes. The paintings are hung on the wall, with a red carpet in front of the chairs.",
+  "height": 682,
+  "width": 1024,
+  "annos": [
+    {
+      "bbox": [
+        152,
+        353,
+        317,
+        658
+      ],
+      "category_name": "armchair chair",
+      "caption": "Elegant armchair with gold upholstery and white wooden frame, exuding luxury and sophistication."
+    },
+    {
+      "bbox": [
+        678,
+        35,
+        838,
+        167
+      ],
+      "category_name": "frame picture frame",
+      "caption": "Gold-colored frame with intricate detailing, holding a landscape painting."
+    },
+    {
+      "bbox": [
+        250,
+        199,
+        399,
+        322
+      ],
+      "category_name": "frame picture frame",
+      "caption": "The frame is ornate and gold, with a thick border surrounding a landscape painting."
+    },
+    {
+      "bbox": [
+        683,
+        353,
+        840,
+        668
+      ],
+      "category_name": "armchair chair",
+      "caption": "An elegant armchair with a green and white floral upholstery and a decorative crest, supported by white-painted legs."
+    },
+    {
+      "bbox": [
+        0,
+        346,
+        162,
+        656
+      ],
+      "category_name": "armchair chair",
+      "caption": "Elegant armchair with ornate white frame, dark green patterned upholstery, and cushioned seat and backrest."
+    },
+    {
+      "bbox": [
+        682,
+        210,
+        835,
+        333
+      ],
+      "category_name": "frame picture frame",
+      "caption": "A wooden picture frame with a rustic finish, holding a painting of a house with a red roof and green trees."
+    },
+    {
+      "bbox": [
+        318,
+        353,
+        467,
+        668
+      ],
+      "category_name": "armchair chair",
+      "caption": "Elegant armchair with ornate red upholstery and white wooden frame, featuring decorative legs and a high backrest."
+    },
+    {
+      "bbox": [
+        246,
+        48,
+        396,
+        175
+      ],
+      "category_name": "frame picture frame",
+      "caption": "The frame is gold with a dark brown border, complementing the pastoral landscape painting."
+    },
+    {
+      "bbox": [
+        449,
+        96,
+        628,
+        258
+      ],
+      "category_name": "frame picture frame",
+      "caption": "The frame is ornate and gold, with a landscape painting of a house on a hill, trees, and a clear sky."
+    },
+    {
+      "bbox": [
+        842,
+        356,
+        1023,
+        673
+      ],
+      "category_name": "armchair chair",
+      "caption": "The armchair has ornate white wood with intricate detailing, a padded seat and back in deep red upholstery, and a small shelf under the seat."
+    },
+    {
+      "bbox": [
+        863,
+        82,
+        1023,
+        283
+      ],
+      "category_name": "frame picture frame",
+      "caption": "Gold-colored ornate frame with intricate detailing, surrounding a painting of a house with a red roof and green trees."
+    },
+    {
+      "bbox": [
+        26,
+        86,
+        214,
+        285
+      ],
+      "category_name": "frame picture frame",
+      "caption": "Dark wood frame with gold accents, classic and elegant, complementing a painting of a serene church landscape."
+    },
+    {
+      "bbox": [
+        487,
+        324,
+        667,
+        669
+      ],
+      "category_name": "armchair chair",
+      "caption": "The armchair has an ornate gold frame and richly patterned red upholstery, featuring decorative scrollwork and a cushioned seat and backrest."
+    },
+    {
+      "bbox": [
+        0,
+        3,
+        1023,
+        668
+      ],
+      "category_name": "room",
+      "caption": "Elegant room with ornate chairs in a variety of colors and gold-framed landscape paintings on white walls."
+    },
+    {
+      "bbox": [
+        0,
+        594,
+        1023,
+        681
+      ],
+      "category_name": "carpet",
+      "caption": "The carpet is a vibrant red with a smooth texture, covering the floor beneath the white furniture legs."
+    },
+    {
+      "bbox": [
+        1,
+        331,
+        1020,
+        672
+      ],
+      "category_name": "row",
+      "caption": "A row of six ornate chairs with colorful patterned upholstery and white frames."
+    },
+    {
+      "bbox": [
+        0,
+        2,
+        1023,
+        609
+      ],
+      "category_name": "wall",
+      "caption": "A white wall adorned with framed landscape paintings and six ornate chairs in front."
+    }
+  ]
+}

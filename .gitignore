@@ -1,0 +1,6 @@
+__pycache__
+wandb
+runs
+pretrained
+output
+GroundingDINO

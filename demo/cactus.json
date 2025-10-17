@@ -1,0 +1,37 @@
+{
+  "prompt": "This is a nature photography picture showcasing a cactus plant. The center of the image features a blooming pink cactus flower, with its petals presenting a vibrant pink color and a yellow stamen in the center. The surrounding cactus leaves are covered with white fuzz, and the background is a blurred soil and other plants, highlighting the beauty of the flower.",
+  "height": 1000,
+  "width": 1500,
+  "annos": [
+    {
+      "bbox": [
+        515,
+        230,
+        801,
+        534
+      ],
+      "category_name": "pink cactus flower",
+      "caption": "Bright pink cactus flower with yellow center, delicate petals."
+    },
+    {
+      "bbox": [
+        4,
+        3,
+        1495,
+        996
+      ],
+      "category_name": "soil",
+      "caption": "Brown, dry ground with scattered organic matter."
+    },
+    {
+      "bbox": [
+        816,
+        362,
+        1058,
+        640
+      ],
+      "category_name": "pink cactus flower",
+      "caption": "Bright pink cactus flower with yellow center, delicate petals."
+    }
+  ]
+}

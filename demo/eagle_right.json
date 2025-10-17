@@ -1,0 +1,48 @@
+{
+    "prompt": "a golden eagle standing on a rock.",
+    "width": 512,
+    "height": 512,
+    "annos": [
+        {
+            "bbox": [
+                102,
+                51,
+                409,
+                460
+            ],
+            "category_name": "eagle",
+            "caption": "a golden eagle"
+        },
+        {
+            "bbox": [
+                189,
+                51,
+                327,
+                178
+            ],
+            "category_name": "head",
+            "caption": "the bird head"
+        },
+        {
+            "bbox": [
+                271,
+                61,
+                327,
+                112
+            ],
+            "category_name": "beak",
+            "caption": "the bird beak"
+        },
+        {
+            "bbox": [
+                245,
+                61,
+                270,
+                86
+            ],
+            "category_name": "eye",
+            "caption": "the bird eye"
+        }
+    ],
+    "seed": 682
+}

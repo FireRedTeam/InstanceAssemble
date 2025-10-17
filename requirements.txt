@@ -1,0 +1,11 @@
+tqdm
+diffusers==0.33.1
+accelerate==0.32.0
+transformers==4.51.3
+peft
+sentencepiece==0.2.1
+protobuf==6.32.1
+opencv-python
+streamlit
+streamlit_drawable_canvas
+streamlit_aggrid

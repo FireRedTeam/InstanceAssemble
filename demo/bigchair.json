@@ -1,0 +1,47 @@
+{
+  "prompt": "This is a photo showcasing a giant red rocking chair located in a park. The rocking chair is adorned with the Route 66 logo and the words 'World's Largest Rocking Chair', indicating that it is a famous landmark. The surrounding environment is composed of green trees and grass, with a backdrop of a cloudy sky and a distant building. The entire scene is illuminated by natural light, presenting a peaceful and leisurely atmosphere.",
+  "width": 1500,
+  "height": 1000,
+  "annos": [
+    {
+      "bbox": [
+        658,
+        176,
+        1199,
+        848
+      ],
+      "category_name": "giant red rocking chair",
+      "caption": "A large, red rocking chair with Route 66 and Guinness World Records branding."
+    },
+    {
+      "bbox": [
+        230,
+        216,
+        678,
+        817
+      ],
+      "category_name": "green trees",
+      "caption": "Tall, lush green trees with dense foliage in a rural setting."
+    },
+    {
+      "bbox": [
+        2,
+        747,
+        1496,
+        900
+      ],
+      "category_name": "grass",
+      "caption": "Lush, green grass covering the ground in a park setting."
+    },
+    {
+      "bbox": [
+        2,
+        2,
+        1496,
+        728
+      ],
+      "category_name": "cloudy sky",
+      "caption": "The sky is overcast with a blanket of clouds."
+    }
+  ]
+}
