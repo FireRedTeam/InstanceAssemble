@@ -104,11 +104,12 @@ python score_LGS.py --imgdir ./output/fluxdev
 ## Citation
 
 ```
-@article{xiang2025instanceassemble,
-      title={InstanceAssemble: Layout-Aware Image Generation via Instance Assembling Attention}, 
+@inproceedings{xiang2025instanceassemble,
+      title={{InstanceAssemble}: Layout-Aware Image Generation via Instance Assembling Attention},
       author={Qiang Xiang and Shuang Sun and Binglei Li and Dejia Song and Huaxia Li and Nemo Chen and Xu Tang and Yao Hu and Junping Zhang},
-      journal={arXiv preprint arXiv:2509.16691},
+      booktitle={The Thirty-ninth Annual Conference on Neural Information Processing Systems},
       year={2025},
+      url={https://openreview.net/forum?id=rRhp7LkBZV}
 }
 ```
 
